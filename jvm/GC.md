@@ -43,7 +43,7 @@
 
 #### 垃圾收集器
 
-![](garage.png)
+![](../pic/garage.png)
 
 - 组合使用（组合关系见上图）
     - 用于新生代：Serial/ParNew/Parallel Scavenge
